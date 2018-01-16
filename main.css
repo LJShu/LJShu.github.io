@@ -3676,11 +3676,10 @@ a{
     margin:0 auto 20px;
     border-bottom: 1px dashed #fff;
     padding-bottom: 10px;
-    line-height: 22px;
+    line-height: 24px;
 }
 .project .projectLeft img{
    width:200px;
-    height:200px;
 }
 .projectRight{
     width:800px;
@@ -3711,7 +3710,7 @@ a{
     cursor: default;
 }
 .striking{
-    color:#ff2d9e;
+    color:#ed687c;
     font-weight: bold;
 
 }
